@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-- 💻 I'm currently working as **Junior****React****Developer** at **Coding****Mountain**
+- 💻 I'm currently working as **Junior** **React** **Developer** at **Coding** **Mountain**
 - 🔭 I’m currently working on **Basecamp** – an Employee leave and workfrom home management system
 - 🌱 I’m currently learning **React**, **TypeScript**, and **Git**
 - 💬 Ask me about anything related to frontend development!
