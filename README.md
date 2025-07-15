@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning **React**, **TypeScript**, and **Git**
 - 💬 Ask me about anything related to frontend development!
 - ✨ I aim to bring creativity and functionality together in clean, user-focused designs
-- 📫 How to reach me pranishamjn@gmail.com
-
+  
 ---
 
 ### 🔧 Tech Stack
