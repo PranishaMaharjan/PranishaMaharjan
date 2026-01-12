@@ -9,7 +9,7 @@
 ### 💼 About Me
 
 - 💻  I'm currently working as **Junior** **React** **Developer** at **Coding** **Mountain**
-- 🔭 I’m currently working on **Basecamp** – an Employee leave and workfrom home management system
+- 🔭 I’m currently working on **Fiber** – a property management system for US States for owner of the property including the portfolio
 - 🌱 I’m currently learning **React**, **TypeScript**, and **Git**
 - 💬 Ask me about anything related to frontend development!
 - ✨ I aim to bring creativity and functionality together in clean, user-focused designs
